@@ -14,7 +14,7 @@ profile:
     
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: znzh AT zju DOT edu DOT cn #<a href="mailto:znzh@zju.edu.cn">znzh@zju.edu.cn</a></p>
+    <p>Email: znzh AT zju DOT edu DOT cn 
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
