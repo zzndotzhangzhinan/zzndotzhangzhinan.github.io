@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Department of Statistics](https://lsa.umich.edu/stats/), University of Michigan
+subtitle: Department of Statistics, University of Michigan
 
 profile:
   align: right
